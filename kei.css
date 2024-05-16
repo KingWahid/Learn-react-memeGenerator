@@ -1,3 +1,5 @@
 .na{
     padding: 30px;
+    max-width: 100px;
+    font-size: mac(4.5vw, 30px);
 }
